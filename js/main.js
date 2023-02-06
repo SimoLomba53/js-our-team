@@ -1,7 +1,7 @@
 //ARRAY SONO CARATTERIZZATI DA NOME,RUOLO,FOTO
 
 //CREO ARRAY OGGETTI CON INFORMAZIONI FORNITE
-let team = [
+const team = [
     {
         nome: "Wayne Barbnett",
         ruolo: "Founder e CEO",
@@ -42,4 +42,5 @@ let team = [
 
 ]
 //STAMPO SU CONSOLE LE INFROMAZIONI
+console.log(team);
 //STAMPO LE INFORMAZIONI SU DOM SOTTOFORMA DI STRINGHE
