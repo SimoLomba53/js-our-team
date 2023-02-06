@@ -7,38 +7,38 @@ const team = [
     {
         nome: "Wayne Barbnett",
         ruolo: "Founder e CEO",
-        foto: { src: /img/angela - caroll - chief - editor },
+        foto: "wayne-img-barnett.jpg",
 
     },
 
     {
         nome: "Angela Caroll",
         ruolo: "Chief Editor",
-        foto: "angela-caroll-chief-editor.jpg",
+        foto: "angela-caroll.jpg",
     },
 
     {
         nome: "Walter Gordon",
         ruolo: "Office Manager",
-        foto: "walter-gordon-office-manager.jpg",
+        foto: "walter-gordon.jpg",
     },
 
     {
         nome: "Angela Lopez",
         ruolo: "Social Media Manager",
-        foto: "angela-lopez-social-media-manager.jpg",
+        foto: "angela-lopez.jpg",
     },
 
     {
         nome: "Scott Estrada",
         ruolo: "Developer",
-        foto: "scott-estrada-developer.jpg",
+        foto: "scott-estrada.jpg",
     },
 
     {
         nome: "Barbara Ramos",
         ruolo: "Graphic Designer",
-        foto: "barbara-ramos-geraphic-designer.jpg"
+        foto: "barbara-ramos.jpg"
     }
 
 
