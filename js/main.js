@@ -1,11 +1,14 @@
 //ARRAY SONO CARATTERIZZATI DA NOME,RUOLO,FOTO
 
 //CREO ARRAY OGGETTI CON INFORMAZIONI FORNITE
+
+
 const team = [
     {
         nome: "Wayne Barbnett",
         ruolo: "Founder e CEO",
-        foto: "founder-ceo.jpg",
+        foto: { src: /img/angela - caroll - chief - editor },
+
     },
 
     {
@@ -84,3 +87,4 @@ containerCards.innerHTML = `
             <div>${team[5].foto}</div>
         </div>
         `
+//BONUS 1 TRASFORMO STRINGHE IN VERE IMMAGINI
